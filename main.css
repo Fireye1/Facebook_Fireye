@@ -1,0 +1,207 @@
+body {
+    background-color: #f0f2f5;
+    scroll-behavior: auto;
+}
+html {
+    height: 100%;
+
+}
+img.Facebook_logo {
+    width: 313px;
+    margin-top: 130px;
+    margin-left: 150px;
+}
+h2.Facebook_word {
+    font-size: 28px;
+    line-height: 32px;
+    width: auto;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    margin-top: -70px;
+    margin-left: 185px;
+}
+div.Login_div_all{
+    background-color: #ffffff;
+    width: 410px;
+    height: 355px;
+    border-radius: 10px;
+    margin-top: -250px;
+    margin-left: 770px;
+    border: gray;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+}
+input.e-post {
+    width: 345px;
+    height: 50px;
+    font-family: inherit;
+    border: 1px solid #dddfe2;
+    border-radius: 4px;
+    border-width: 1px;
+    margin-top: 12px;
+    margin-left: 18px;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 20px;
+    
+    
+}
+input.e-post::placeholder{
+    color: #949496;
+
+}
+input.e-post:focus {
+    outline: none !important;
+    border:1px solid #1877f2;
+    box-shadow: 0 0 10px #719ECE;
+}
+
+input.password{
+    width: 365px;
+    height: 50px;
+    font-family: inherit;
+    border-color: #dddfe2;
+    border-radius: 6px;
+    border-width: 1px;
+    margin-top: 11px;
+    margin-left: 18px;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    border: 1px solid #dddfe2;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 20px;
+    width: 350px;
+}
+input.password::placeholder{
+    color: #949496;
+}
+input.password:focus{
+    outline: none !important;
+    border:1px solid #1877f2;
+    box-shadow: 0 0 10px #719ECE;
+}
+button.Login{
+    background-color: #1877f2;
+    color: white;
+    text-align: center;
+    width: 375px;
+    height: 50px;
+    font-family: inherit;
+    border-color: #dddfe2;
+    border-radius: 8px;
+    border-width: 1px;
+    margin-top: 11px;
+    margin-left: 18px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: bolder;
+}
+div.Forgor_password_all{
+    margin-top: 20px;
+    width: 350px;
+    height: 38px;
+    margin-left: 35px;
+    border-bottom: 1px solid #dadde1;
+    display: block;
+    text-align: center;
+    
+
+}
+a.Forgot_password{
+    color: #1877f2;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+button.create_account{
+    background-color: #42b72a;
+    color: white;
+    text-align: center;
+    width: 180px;
+    height: 50px;
+    font-family: inherit;
+    border-color: #dddfe2;
+    border-radius: 8px;
+    border-width: 1px;
+    margin-top: 12px;
+    margin-left: 125px;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 25px;
+}
+p.create_page{
+    margin-left: 820px;
+    font-size: 14px;
+    margin-top: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a.page_create{
+    color: black;
+    text-decoration: none;
+}
+a.page_create:hover{
+    text-decoration: underline;
+}
+div.language{
+    height: 170px;
+    margin-top: 200px;
+    background-color: #ffffff;
+}
+a.Dil{    
+    padding-right: 8px;
+    text-decoration: none;
+    color: #90949c;
+    font-size: 13px;
+
+}
+div.all_1 {
+    width: 15;
+    display: inline-block;
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 15px;
+    
+}
+button.+{
+    width: 30px;
+}
+div.all{
+    border-bottom:1px solid  #dadde1;
+    width: 1000px;
+    margin-left: 200px;
+
+}
+div.all_2{
+    display: inline-block;
+    width: 15;
+    margin-top: -1px;
+    text-align: center;
+    margin-bottom: 15px;
+    line-height: -50px;
+    
+}
+div.all_all{
+    width: 1000px;
+    margin-left: 200px;
+    line-height: 3px;
+    margin-top: 15px;
+    margin-left: 200px;
+    
+}
+div.all_3{
+    font-size: 11px;
+    color: #90949c;
+    margin-right: 7x;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+
